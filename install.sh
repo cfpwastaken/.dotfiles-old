@@ -9,9 +9,9 @@ sudo apt update
 sudo apt install steam -y
 
 echo -------------------------------------------------
-echo WGET, CURL and GIT
+echo WGET and CURL
 echo -------------------------------------------------
-sudo apt install wget curl git -y
+sudo apt install wget curl -y
 
 echo -------------------------------------------------
 echo DollarSkip
