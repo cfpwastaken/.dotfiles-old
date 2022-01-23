@@ -1,0 +1,17 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.inlineSuggest.enabled": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": true
+    },
+    "files.autoSave": "onFocusChange",
+    "editor.linkedEditing": true,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontFamily": "UbuntuMono NF",
+    "terminal.integrated.fontSize": 16
+}
